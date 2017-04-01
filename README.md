@@ -1,2 +1,2 @@
 # hello-world
-Getting to know git-hub
+Old gizer learning new tricks
